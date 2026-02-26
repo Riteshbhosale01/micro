@@ -1,0 +1,61 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: #0A0118;
+}
+#navbar{
+    height: 30px;
+    background-color:#0f1111;
+    color: white;
+    position:fixed ;
+    top: 0%;
+    width: 100%;
+}
+.navbarlinks{
+    margin-right: 200px;
+    text-decoration: none;
+    color: white;
+}
+#b1{
+    background:linear-gradient(45deg,#b57df8,#f5a5da,#ff989c);
+    border-radius: 12%;
+    width: 120px;
+    color: white;
+}
+#home{
+    color: #f5a5da;
+}
+#logo{
+    float: left;
+    height: 25px;
+    padding: 0;
+    margin-right: 200px;
+}
+.start{
+    margin-top: 30px;
+    color: whitesmoke;
+    text-align: center;
+}
+#welcome{
+    margin: 10px;
+    color: #f5a5da;
+}
+#our{
+    margin: 10px;
+    color: #f5a5da;
+}
+.pra{
+    margin: 10px;
+    color: whitesmoke;
+    
+}
+hr{
+    margin: 5px;
+    color: #f5a5da;
+}
+#googlelogo{
+    height: 20px;
+}
